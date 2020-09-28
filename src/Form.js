@@ -4,7 +4,7 @@ import validate from './LoginValidationRules';
 
 const Form = () => {
   const login = () => {
-    console.log(values);
+    console.log('No errors, submit callback called!');
   }
 
   const { values, handleChange, handleSubmit, errors } = useForm(login, validate);
