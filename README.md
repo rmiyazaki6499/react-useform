@@ -8,11 +8,10 @@ This is a practice repo for using custom hooks for forms in React.
 
 - [Project Layout](#project-layout)
 - [Requirements](#requirements)
-- [Setting up the Django-app project with Docker](#setting-up-the-django-app-project-with-docker)
+- [Setting up the project with Docker](#setting-up-the-django-app-project-with-docker)
   - [Install Docker](#install-docker)
   - [Build and Run the Container](#build-and-run-the-container)
   - [Cleaning up the Container and Image](#cleaning-up-the-container-and-image)
-- [Setting up the Django-app project manually](#setting-up-the-django-app-project-manually)
 - [Authors](#authors)
 
 ## Setting up the project with Docker
